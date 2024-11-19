@@ -1,4 +1,4 @@
-## Hi there 👋
+なにもわからない
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada3-1990&layout=compact&theme=dracula)
