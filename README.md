@@ -1,5 +1,6 @@
-なにもわからない
-https://yamada3-1990.github.io/
+なにもわからない[
+
+https://yamada3-1990.github.io/yamada3page/
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada3-1990&layout=compact&theme=dracula)
