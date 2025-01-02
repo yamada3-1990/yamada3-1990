@@ -1,4 +1,4 @@
-↓↓↓工事中のページ↓↓↓<br>
+まずは形からk<br>
 https://yamada3-1990.github.io/yamada3page/
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada3-1990&)
