@@ -1,4 +1,4 @@
-工事中<br>
+工事中:(<br>
 https://yamada3-1990.github.io/yamada3page/
 
 <!-- 
